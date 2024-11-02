@@ -1,0 +1,201 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Introduce 1.0.0.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/buddypress-introduce\n"
+"POT-Creation-Date: 2011-05-06 07:21:22+00:00\n"
+"PO-Revision-Date: 2011-08-16 12:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: Matoma <gak@matoma.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: includes/introduce-templatetags.php:181
+#: includes/introduce-templatetags.php:285
+#: includes/introduce-templatetags.php:458
+msgid "Member avatar"
+msgstr "Profilbild"
+
+#: includes/introduce-templatetags.php:343
+msgid "%s accepted the request."
+msgstr "Feedback gesendet vor %s."
+
+#: includes/introduce-templatetags.php:394
+msgid "Accept"
+msgstr "Annehmen"
+
+#: includes/introduce-templatetags.php:395
+msgid "Reject"
+msgstr "Ablehnen"
+
+#: includes/introduce-templatetags.php:398
+msgid "You accepted the request."
+msgstr "Du hast die Anfrage angenommen."
+
+#: includes/introduce-templatetags.php:400
+msgid "Waiting for %s"
+msgstr "Warte auf %s"
+
+#: includes/introduce-templatetags.php:477
+#: includes/templates/introduce/own.php:5
+msgid "Introduced"
+msgstr "Vorgestellt"
+
+#: includes/introduce-templatetags.php:491
+msgid "Viewing introduced %1$s to %2$s (of %3$s introduced)"
+msgstr "%1$s bis %2$s (von insgesamt %3$s Vorstellungen)"
+
+#: includes/templates/introduce/add-user.php:4
+msgid "Introduce this user"
+msgstr "Diesen Benutzer vorstellen"
+
+#: includes/templates/introduce/add-user.php:21
+msgid "Please  search here your contact"
+msgstr "Bitte suche hier deinen Kontakt"
+
+#: includes/templates/introduce/add-user.php:31
+msgid "Your message"
+msgstr "Deine Nachricht"
+
+#: includes/templates/introduce/add-user.php:36
+msgid "informed by e-mail"
+msgstr "per E-Mail informieren"
+
+#: includes/templates/introduce/add-user.php:40
+msgid "Send Introduction"
+msgstr "Kontaktempfehlung senden"
+
+#: includes/templates/introduce/index.php:5
+#: loader.php:33
+msgid "Contact request"
+msgstr "Kontaktempfehlung "
+
+#: includes/templates/introduce/index.php:11
+msgid "From:"
+msgstr "Von:"
+
+#: includes/templates/introduce/index.php:19
+#: includes/templates/introduce/own.php:26
+msgid "Message:"
+msgstr "Deine Nachricht:"
+
+#: includes/templates/introduce/index.php:36
+#: includes/templates/introduce/own.php:43
+msgid "You have no pending friendship requests."
+msgstr "Du hast keine offenen Kontaktempfehlungen."
+
+#: includes/introduce.php:67
+#: includes/introduce.php:68
+#: includes/introduce.php:285
+msgid "Introduce"
+msgstr "Vorstellen"
+
+#: includes/introduce.php:105
+msgid "Please enter your message!"
+msgstr "Bitte trage deine Nachricht ein!"
+
+#: includes/introduce.php:108
+msgid "Please select a contact!"
+msgstr "Bitte wähle einen Kontakt!"
+
+#: includes/introduce.php:113
+msgid "The contact request has been successfully launched."
+msgstr "Die Kontaktempfehlung wurde versandt."
+
+#: includes/introduce.php:116
+msgid "An unexpected error occurred."
+msgstr "Es ist ein unerwarteter Fehler aufgetreten."
+
+#: includes/introduce.php:235
+msgid "You have been %s person presented. Here you can confirm or deny the request."
+msgstr "Du wurdest %s Personen vorgestellt. Hier kannst du die Anfrage bestätigen oder ablehnen."
+
+#: includes/introduce.php:239
+msgid "%s introduce you %s. Here you can confirm or deny the request."
+msgstr "%s hat dich %s vorgestellt. Hier kannst du die Anfrage bestätigen oder ablehnen."
+
+#: includes/introduce.php:245
+msgid "%d people have confirmed the contact request."
+msgstr "%d Personen haben die Kontaktempfehlung bestätigt."
+
+#: includes/introduce.php:249
+msgid "%s has confirmed the contact request."
+msgstr "%s hat die Kontaktempfehlung bestätigt."
+
+#: includes/introduce.php:255
+msgid "%d people have also confirmed the contact request."
+msgstr "%d Personen haben die Kontaktempfehlung ebenfalls bestätigt."
+
+#: includes/introduce.php:259
+msgid "%s has also confirmed the contact request."
+msgstr "%s hat die Kontaktempfehlung ebenfalls bestätigt."
+
+#: includes/introduce.php:265
+msgid "%d people have rejected the contact request."
+msgstr "%d Personen haben die Kontaktempfehlung abgelehnt."
+
+#: includes/introduce.php:269
+msgid "%s has rejected the contact request."
+msgstr "%s hat die Kontaktempfehlung abgelehnt."
+
+#: includes/introduce.php:286
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/introduce.php:287
+msgid "No"
+msgstr "Nein"
+
+#: includes/introduce.php:294
+msgid "A user can inform you of contact requests."
+msgstr "Ein Benutzer dich als Kontakt empfohlen hat"
+
+#: includes/introduce.php:326
+msgid " and "
+msgstr " und "
+
+#: includes/introduce.php:343
+msgid "%s has introduced you %s."
+msgstr "%s hat dich %s vorgestellt."
+
+#: includes/introduce.php:345
+msgid ""
+"%s has introduced you %s.\n"
+"\t\t\n"
+"%s\n"
+"\t\t\n"
+"Here you can see all open requests: %s\n"
+"\n"
+"To view %s's Profile: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%s hat dich %s vorgestellt. \n"
+"\t\t\n"
+"%s\n"
+"\t\t\n"
+"Hier kannst du alle offenen Anfragen einsehen: %s\n"
+"\n"
+"Um %s's Profil anzuschauen: %s\n"
+"---------------------\n"
+
+#: includes/introduce.php:357
+msgid "To disable these notifications please log in and go to: %s"
+msgstr "Um diese Benachrichtigungen zu deaktivieren melde dich an und besuche: %s"
+
+#~ msgid "the following person"
+#~ msgstr "folgender Person"
+
+#~ msgid "following people"
+#~ msgstr "folgenden Personen"
+
+#~ msgid "Created "
+#~ msgstr "Erstellt am"

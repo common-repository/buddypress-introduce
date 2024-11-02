@@ -1,0 +1,22 @@
+ul.introduce li.introduce-head {  margin-top: 20px; }
+ul.introduce li.introduce-head:first-child { margin-top: 0px; }
+ul.introduce li.introduce-head h3 { font-size: 12px; }
+ul.introduce li.introduce-head div.item-desc { font-size: 12px; }
+
+ul.introduced li.introduce-head div.item-desc { font-size: 12px; margin-left: 0px; }
+ul.introduced div.own-introduce { font-size: 12px; clear: both; height: 70px; overflow: hidden; }
+ul.introduced div.own-introduce div.left { float: left; width: 50%; height: 70px; }
+ul.introduced div.own-introduce div.right { float: left; width: 38%; padding-left: 10%; height: 70px; }
+div.introduced-pagination { background: none repeat scroll 0 0 #F8F8F8; border-bottom: 1px solid #EAEAEA; color: #888888; font-size: 11px; height: 16px; margin: 0 -20px 9px; padding: 10px 20px; }
+div.introduced-pagination .pag-count { float: left; }
+div.introduced-pagination .pagination-links { float: right; }
+ul.introduced div.own-introduce.friends { background-image: url('../images/icon_freundschaft.png'); background-position: center center; background-repeat: no-repeat; }
+
+ul.introduced div.own-introduce,
+ul.introduced div.own-introduce.state-2 { background-image: url('../images/icon_abgelehnt.png'); background-position: center center; background-repeat: no-repeat; }
+
+div.own-introduce { padding-top: 20px; }
+
+#invite-event-form .item-list li{
+	height: 80px;
+}

@@ -1,0 +1,191 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Introduce 1.0.0.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/buddypress-introduce\n"
+"POT-Creation-Date: 2011-05-06 07:21:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-08-14 21:08+0100\n"
+"Last-Translator: Arjan Salomons <arjan@smakk.nl>\n"
+"Language-Team: \n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: includes/introduce-templatetags.php:181
+#: includes/introduce-templatetags.php:285
+#: includes/introduce-templatetags.php:458
+msgid "Member avatar"
+msgstr "Gebruikers-avatar"
+
+#: includes/introduce-templatetags.php:343
+msgid "%s accepted the request."
+msgstr "%s heeft je vriendschapsverzoek bevestigd."
+
+#: includes/introduce-templatetags.php:394
+msgid "Accept"
+msgstr "Bevestigen"
+
+#: includes/introduce-templatetags.php:395
+msgid "Reject"
+msgstr "Afkeuren"
+
+#: includes/introduce-templatetags.php:398
+msgid "You accepted the request."
+msgstr "Je hebt het verzoek bevestigd."
+
+#: includes/introduce-templatetags.php:400
+msgid "Waiting for %s"
+msgstr "Wachtend op %s"
+
+#: includes/introduce-templatetags.php:477
+#: includes/templates/introduce/own.php:5
+msgid "Introduced"
+msgstr "Voorgesteld"
+
+#: includes/introduce-templatetags.php:491
+msgid "Viewing introduced %1$s to %2$s (of %3$s introduced)"
+msgstr "Bekijk %1$s tot %2$s (van %3$s voorgestelde leden)"
+
+#: includes/templates/introduce/add-user.php:4
+msgid "Introduce this user"
+msgstr "Set dit lid voor"
+
+#: includes/templates/introduce/add-user.php:21
+msgid "Please  search here your contact"
+msgstr "Zoek hier naar je contactpersonen"
+
+#: includes/templates/introduce/add-user.php:31
+msgid "Your message"
+msgstr "Jouw bericht"
+
+#: includes/templates/introduce/add-user.php:36
+msgid "informed by e-mail"
+msgstr "Ingelicht per e-mail"
+
+#: includes/templates/introduce/add-user.php:40
+msgid "Send Introduction"
+msgstr "Verzend vriendschapsverzoek"
+
+#: includes/templates/introduce/index.php:5
+#: loader.php:33
+msgid "Contact request"
+msgstr "Vriendschapsverzoek"
+
+#: includes/templates/introduce/index.php:11
+msgid "From:"
+msgstr "Van:"
+
+#: includes/templates/introduce/index.php:19
+#: includes/templates/introduce/own.php:26
+msgid "Message:"
+msgstr "Bericht:"
+
+#: includes/templates/introduce/index.php:36
+#: includes/templates/introduce/own.php:43
+msgid "You have no pending friendship requests."
+msgstr "Je hebt geen vriendschapsverzoeken."
+
+#: includes/introduce.php:67
+#: includes/introduce.php:68
+#: includes/introduce.php:285
+msgid "Introduce"
+msgstr "Voorstellen"
+
+#: includes/introduce.php:105
+msgid "Please enter your message!"
+msgstr "Voer alsjeblieft je bericht in!"
+
+#: includes/introduce.php:108
+msgid "Please select a contact!"
+msgstr "Selecteer alsjeblieft een vriend!"
+
+#: includes/introduce.php:113
+msgid "The contact request has been successfully launched."
+msgstr "Het vriendschapsverzoek is succesvol verzonden."
+
+#: includes/introduce.php:116
+msgid "An unexpected error occurred."
+msgstr "Er is een onbekende fout opgetreden."
+
+#: includes/introduce.php:235
+msgid "You have been %s person presented. Here you can confirm or deny the request."
+msgstr "Je bent voorgesteld aan %s. Hier kun je de aanvraag bevestigen of afkeuren."
+
+#: includes/introduce.php:239
+msgid "%s introduce you %s. Here you can confirm or deny the request."
+msgstr "%s wil je aan %s voorstellen. Hier kun je de aanvraag bevestigen of afkeuren."
+
+#: includes/introduce.php:245
+msgid "%d people have confirmed the contact request."
+msgstr "%d mensen hebben het vriendschapsverzoek bevestigd."
+
+#: includes/introduce.php:249
+msgid "%s has confirmed the contact request."
+msgstr "%s heeft het vriendschapsverzoek bevestigd."
+
+#: includes/introduce.php:255
+msgid "%d people have also confirmed the contact request."
+msgstr "%d mensen hebben ook het vriendschapsverzoek bevestigd."
+
+#: includes/introduce.php:259
+msgid "%s has also confirmed the contact request."
+msgstr "%s heeft het ook het vriendschapsverzoek bevestigd."
+
+#: includes/introduce.php:265
+msgid "%d people have rejected the contact request."
+msgstr "%d mensen hebben he vriendschapsverzoek afgekeurd."
+
+#: includes/introduce.php:269
+msgid "%s has rejected the contact request."
+msgstr "%s heeft het vriendschapsverzoek afgekeurd."
+
+#: includes/introduce.php:286
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/introduce.php:287
+msgid "No"
+msgstr "Nee"
+
+#: includes/introduce.php:294
+msgid "A user can inform you of contact requests."
+msgstr "Een gebruiker kan je inlichten over vriendschapsverzoeken"
+
+#: includes/introduce.php:326
+msgid " and "
+msgstr " en "
+
+#: includes/introduce.php:343
+msgid "%s has introduced you %s."
+msgstr "%s heeft je voorgesteld aan %s."
+
+#: includes/introduce.php:345
+msgid ""
+"%s has introduced you %s.\n"
+"\t\t\n"
+"%s\n"
+"\t\t\n"
+"Here you can see all open requests: %s\n"
+"\n"
+"To view %s's Profile: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%s heeft jou voorgesteld aan %s.\n"
+"\t\t\n"
+"%s\n"
+"\t\t\n"
+"Hier kun je alle openstaande aanvragen bekijken: %s\n"
+"\n"
+"Om het profiel van %s te bekijken: %s\n"
+"\n"
+"---------------------\n"
+
+#: includes/introduce.php:357
+msgid "To disable these notifications please log in and go to: %s"
+msgstr "Om deze notificaties te be&euml;indigen log in en ga naar: %s"
+
